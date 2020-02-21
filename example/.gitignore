@@ -1,0 +1,3 @@
+app.elf
+main.o
+semihosting.o
